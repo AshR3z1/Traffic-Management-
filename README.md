@@ -56,7 +56,7 @@ Step 6
 Keep the option copy data from one or more tables or views on. 
 
 Step 7
-Finish thew task.
+Finish the task.
 
 Step 8
 Rename the table name from "shp_coords_bonn" to "mapData"
